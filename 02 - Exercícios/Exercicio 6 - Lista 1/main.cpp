@@ -1,3 +1,10 @@
+/* 
+Foram digitadas três linhas, onde cada uma das linhas 
+contém o nome e a nota de um aluno. 
+Escreva um programa que leia essas informações 
+e monte uma tabela onde a primeira coluna 
+é o nome e a segunda coluna é a nota. 
+*/
 #include <iostream>
 #include <string>
 #include <iomanip>
