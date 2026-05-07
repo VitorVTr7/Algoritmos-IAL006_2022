@@ -1,3 +1,8 @@
+/*
+Escreva um programa para ler uma temperatura 
+dada na escala Fahrenheit e exibir o equivalente em Celsius.
+C = 5/9 (F-32)
+*/
 #include <iostream>
 
 using namespace std;
