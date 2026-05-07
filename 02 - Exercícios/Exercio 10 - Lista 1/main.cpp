@@ -1,3 +1,12 @@
+/*
+Suponha que se tenha uma lista com o nome e o preço de 3 produtos 
+(não precisa ler essa tabela do teclado). 
+O programa deve mostrar a tabela com o nome e o preço dos produtos para o usuário. 
+O usuário deverá entrar com a quantidade de cada produto que ele quer. 
+No final, o programa deverá gerar uma tabela com as seguintes colunas: 
+Nome do produto, quantidade do produto, valor unitário do produto, 
+subtotal do produto. Além disso, mostrar o total da compra. 
+*/
 #include <iostream>
 #include <iomanip>
 #include <string>
