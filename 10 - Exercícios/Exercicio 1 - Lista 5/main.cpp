@@ -1,3 +1,8 @@
+/*
+Faça uma função que receba três números inteiros: a, b e c, onde a é maior que 1. A 
+função deve somar todos os inteiros entre b e c que sejam divisíveis por a 
+(inclusive b e c) e retorne o resultado para a função principal. 
+*/
 #include <iostream>
 
 using namespace std;
@@ -12,7 +17,7 @@ int main()
     cout << "Coloque um numero a: ";
     cin >> a;
     if (a < 2){
-    cout << "N�mero tem que ser maior que 1." << endl;
+    cout << "Número tem que ser maior que 1." << endl;
     }}
     cout << "Coloque um numero b: ";
     cin >> b;
