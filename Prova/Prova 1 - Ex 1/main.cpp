@@ -1,3 +1,8 @@
+/*
+Escreva um programa que o usuário possa colocar nome dele e 3 produtos que ele 
+desejar anotar. Assim no final deverá mostrar o nome do usuário e seus respectivos 
+produtos.
+*/
 #include <iostream>
 #include <iomanip>
 
