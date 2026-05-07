@@ -1,3 +1,7 @@
+/*
+Elabore um programa para ler uma sequência de 30 caracteres. Em seguida localize as 
+vogais e as troque pelo símbolo @. Mostre a nova sequência.
+*/
 #include <iostream>
 #define X 30
 
