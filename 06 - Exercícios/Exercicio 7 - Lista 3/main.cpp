@@ -1,3 +1,4 @@
+// Faça um programa que mostre todos os números inteiros de 1 a 50. 
 #include <iostream>
 
 using namespace std;
