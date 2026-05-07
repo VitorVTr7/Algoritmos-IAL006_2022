@@ -1,3 +1,9 @@
+/*
+Elabore um programa que sabendo as 
+notas de média de provas (MP), trabalhos (MT) e exercícios (ME) 
+de um aluno calcule a sua média final sendo:
+MF = 0.7 * MP + 0.2 * MT + 0.1 * ME
+*/
 #include <iostream>
 
 using namespace std;
