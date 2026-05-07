@@ -1,3 +1,7 @@
+/*
+Leia uma variável de 100 elementos reais e verifique se existem elementos iguais a 64. 
+Se existirem, escreva as posições em que estão armazenados. 
+*/
 #include <iostream>
 
 #define x 10
