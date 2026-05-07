@@ -1,3 +1,9 @@
+/*
+Construir um algoritmo que leia um conjunto A de 20 elementos, construa e imprima outro 
+conjunto B da seguinte forma: 
+Os elementos de índices pares correspondem a A3. 
+Os elementos de índices ímpares correspondem a A/2. 
+*/
 #include <iostream>
 #include <math.h>
 #define X 20
