@@ -1,3 +1,8 @@
+/*
+Elabore um programa para ler um conjunto de 100 números inteiros, contar e escrever 
+quantos deles são superiores a média aritmética do conjunto, 
+e quantos são inferiores. Mostre os resultados. 
+*/
 #include <iostream>
 #include <math.h>
 #define X 100
