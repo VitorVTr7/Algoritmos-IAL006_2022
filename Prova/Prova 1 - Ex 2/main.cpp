@@ -1,3 +1,10 @@
+/*
+Faça um programa que faça a média aritmética de um aluno, sabendo que ele tem 4 
+matérias (português, matemática, filosofia e geografia.). No final do programa, demonstrar
+a sua média aritmética e falar se o aluno ficou acima da média ou se ficou abaixo da 
+média. Sabendo que para ficar acima da média, o aluno deverá ter média igual ou acima 
+de 6, enquanto para ficar abaixo da média, o aluno deverá ter média abaixo de 6.
+*/
 #include <iostream>
 
 using namespace std;
