@@ -1,3 +1,9 @@
+/*
+Faça um programa que leia um valor N inteiro e positivo, 
+calcule e mostre a série dada por: 
+
+S = 1 + (1/1!) + (1/2!) + (1/3!) + ... + (1/N!)
+*/
 #include <iostream>
 
 using namespace std;
