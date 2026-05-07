@@ -1,3 +1,9 @@
+/*
+Faça um programa que leia um valor x, 
+calcule e mostre a série abaixo considerando os 15 primeiros termos.
+
+S = 1 + (X2/1) + (X3/2) + (X4/3) + (X5/4) + ...
+*/
 #include <iostream>
 #include <math.h>
 
