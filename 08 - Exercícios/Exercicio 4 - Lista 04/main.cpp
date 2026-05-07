@@ -1,3 +1,8 @@
+/*
+Leia uma variável de 50 elementos do tipo caractere e verifique se existem elementos 
+iguais a um determinado caractere fornecido pelo usuário.
+Se existirem escreva as posições em que estão armazenados. 
+*/
 #include <iostream>
 #define X 50
 
