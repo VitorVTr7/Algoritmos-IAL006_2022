@@ -1,3 +1,7 @@
+/*
+Desenvolva um programa que efetue a leitura de 10 elementos e os coloque num vetor A. 
+No final apresente o total da soma de todos os elementos que sejam ímpares. 
+*/
 #include <iostream>
 #define X 10
 
