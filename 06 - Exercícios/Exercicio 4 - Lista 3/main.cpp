@@ -1,3 +1,9 @@
+/*
+Um número natural é triangular se ele é 
+produto de três números naturais consecutivos. 
+Escreva um programa que dado N natural, verifique se N é triangular. 
+Por exemplo, 120 é triangular pois 4*5*6 = 120
+*/
 #include <iostream>
 
 using namespace std;
