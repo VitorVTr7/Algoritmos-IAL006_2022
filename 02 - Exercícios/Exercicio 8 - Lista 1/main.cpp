@@ -1,3 +1,8 @@
+/*
+Elabore um programa que leia dois números inteiros, 
+calcule e mostre o primeiro número multiplicado por 5 
+e o segundo número somado com 10. 
+*/
 #include <iostream>
 
 using namespace std;
