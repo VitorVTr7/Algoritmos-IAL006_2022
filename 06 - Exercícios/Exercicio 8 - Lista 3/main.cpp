@@ -1,3 +1,4 @@
+// Faça um programa que gere a seguinte série: 10, 20, 30, 40, ..., 990, 1000.
 #include <iostream>
 
 using namespace std;
