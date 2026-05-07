@@ -1,3 +1,7 @@
+/*
+Faça uma função que retorne 1 se o número digitado for positivo ou 0 se o número for 
+negativo. 
+*/
 #include <iostream>
 
 using namespace std;
