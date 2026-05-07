@@ -1,3 +1,7 @@
+/*
+Ler dois vetores, o A com 20 elementos e o B com 30 elementos. Construir um vetor C 
+sendo este a junção dos outros dois vetores. Assim, C terá 50 elementos.
+*/
 #include <iostream>
 #define X 20
 #define Y 30
