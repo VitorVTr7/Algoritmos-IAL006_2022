@@ -1,3 +1,10 @@
+/*
+O Departamento de Computação deseja saber se existem alunos cursando, 
+simultaneamente, as disciplinas D1 e D2. 
+Existe disponível uma listagem com os números de matrículas dos alunos 
+das duas disciplinas. 
+Após ler essas listagens verifique quem são os alunos. 
+*/
 #include <iostream>
 #define A 5000
 using namespace std;
