@@ -1,3 +1,9 @@
+/*
+Faça uma rotina que receba dois números e calcule a soma, a subtração, a multiplicação e 
+a divisão desses números. O cálculo só deve ser feito 
+se o primeiro número for maior ou igual ao segundo, 
+senão retorne um erro. Faça um programa para testar a rotina. 
+*/
 #include <iostream>
 
 using namespace std;
