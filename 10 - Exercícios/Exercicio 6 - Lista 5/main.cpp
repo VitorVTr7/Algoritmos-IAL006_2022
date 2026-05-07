@@ -1,3 +1,7 @@
+/*
+Faça uma rotina que receba o nome e o sobrenome de uma pessoa e retorne o nome 
+completo. Faça um programa para testar a sua rotina. 
+*/
 #include <iostream>
 
 using namespace std;
