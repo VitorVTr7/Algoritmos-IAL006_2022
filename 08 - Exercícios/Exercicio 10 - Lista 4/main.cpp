@@ -1,3 +1,4 @@
+//Dadas as matrizes A e B, determine a matriz C tal que C = A * B. Imprima A, B e C. 
 #include <iostream>
 #define X 3
 #define Y 9
