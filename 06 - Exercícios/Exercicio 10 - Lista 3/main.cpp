@@ -1,3 +1,8 @@
+/*
+Faça um programa que leia um número N, calcule e mostre os N primeiros termos 
+da sequência de Fibonacci (1, 1, 2, 3, 5, 8, 13, ...). 
+O valor lido para N deverá ser maior ou igual ao número 2.
+*/
 #include <iostream>
 
 using namespace std;
