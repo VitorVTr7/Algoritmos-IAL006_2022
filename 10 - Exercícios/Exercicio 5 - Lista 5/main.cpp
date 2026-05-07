@@ -1,3 +1,4 @@
+//Construir uma função que calcule xy. Elabore um programa para testar sua função. 
 #include <iostream>
 #include <math.h>
 
