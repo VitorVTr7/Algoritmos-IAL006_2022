@@ -1,3 +1,9 @@
+/*
+Faça um procedimento que receba as três notas de um aluno como parâmetros e uma 
+letra. Se a letra for A o procedimento calcula a média aritmética das notas do aluno, 
+se for P calcula a média ponderada com pesos 5, 3 e 2 respectivamente. 
+A média calculada deve ser devolvida ao programa principal para ser mostrada. 
+*/
 #include <iostream>
 
 using namespace std;
