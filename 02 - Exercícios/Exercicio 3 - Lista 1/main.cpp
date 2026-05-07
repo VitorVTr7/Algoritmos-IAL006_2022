@@ -1,3 +1,8 @@
+/*
+Escreva um programa para calcular e exibir o comprimento 
+de uma circunferência, sendo dada o valor de seu raio.  
+C = 2PiR
+*/
 #include <iostream>
 
 using namespace std;
