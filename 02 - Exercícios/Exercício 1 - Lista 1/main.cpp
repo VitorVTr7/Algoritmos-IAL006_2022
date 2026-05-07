@@ -1,3 +1,7 @@
+/*
+Faça um programa que receba 3 notas e seus respectivos pesos, 
+calcule e mostre a média ponderada dessas notas. 
+*/
 #include <iostream>
 
 using namespace std;
