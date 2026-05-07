@@ -1,3 +1,8 @@
+/*
+Escreva uma rotina que receba o dia, o mês e o ano de uma data 
+e retorne o dia, o mês e o ano do próximo dia. 
+Faça um programa para testar a sua rotina. 
+*/
 #include <iostream>
 
 using namespace std;
