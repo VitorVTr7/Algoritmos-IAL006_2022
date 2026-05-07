@@ -1,3 +1,9 @@
+/*
+Desenvolva um questionário com modelo de prova teste, em que o usuário deverá 
+colocar o nome dele e responder entre 3 questões. Se for respondido às 3 questões 
+corretamente, mostrar uma tela parabenizando o usuário, mas se o usuário errar pelo 
+menos uma questão, repetir todo o questionário novamente.
+*/
 #include <iostream>
 
 using namespace std;
