@@ -1,3 +1,10 @@
+/*
+Dada uma matriz 10x3 com as notas de 10 alunos em 3 provas, faça um programa que 
+mostre um relatório com o número do aluno (número da linha) e a prova em que cada aluno 
+obteve menor nota. Ao final do relatório, 
+mostre quantos alunos tiveram menor nota na P1, 
+quantos alunos tiveram menor nota na P2 e quantos alunos tiveram menor nota na P3.
+*/
 #include <iostream>
 #define X 10
 #define Y 3
