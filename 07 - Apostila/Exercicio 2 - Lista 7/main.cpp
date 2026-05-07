@@ -1,3 +1,4 @@
+//Dadas as matrizes A e B, 5x3, determine a matriz C = A + B. Imprima A, B e C.
 #include <iostream>
 
 #define n 5
