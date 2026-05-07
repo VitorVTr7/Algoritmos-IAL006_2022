@@ -1,3 +1,7 @@
+/*
+Faça um programa que leia um número N, 
+some todos os números inteiros de 1 a N, e mostre o resultado obtido. 
+*/
 #include <iostream>
 
 using namespace std;
