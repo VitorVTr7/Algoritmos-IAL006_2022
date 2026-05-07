@@ -1,3 +1,7 @@
+/*
+Construir um algoritmo que, dado um vetor A de 20 elementos, calcule e escreva:
+S = (A0 - A19)2 + (A1 - A18)2 + ... + (A9 - A10)2
+*/
 #include <iostream>
 #include <math.h>
 #define X 20
