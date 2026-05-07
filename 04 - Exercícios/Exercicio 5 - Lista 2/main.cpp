@@ -1,3 +1,14 @@
+/*
+Um determinado clube deseja aumentar o salário de seus jogadores. 
+O reajuste deve obedecer a seguinte tabela:
+SALÁRIO ATUAL (R$) 				AUMENTO 
+0,00 a 1.000,00 				20% 
+1.000,01 a 5.000,00 			10% 
+acima de 5.000,00 				0% 
+
+Escrever um programa que leia o nome e o salário atual de um jogador, 
+e exiba o nome, o salário atual e o salário reajustado. 
+*/
 #include <iostream>
 #include <string>
 
