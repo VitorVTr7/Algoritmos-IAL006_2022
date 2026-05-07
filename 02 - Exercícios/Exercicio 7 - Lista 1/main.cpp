@@ -1,3 +1,7 @@
+/*
+Elabore um programa que leia dois números inteiros, 
+calcule o seu produto e mostre o resultado.
+*/
 #include <iostream>
 
 using namespace std;
