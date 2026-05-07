@@ -1,3 +1,13 @@
+/*
+Deseja-se calcular a conta de consumo de energia elétrica de um consumidor. 
+Para isto, escreva um programa que leia o código do consumidor, 
+o preço do kwh e a quantidade de kwh consumido. 
+Ao final, exiba o código do consumidor e o total a pagar. 
+
+ Total a pagar = preço x quantidade
+
+ Total a pagar mínimo = R$ 11,20 
+*/
 #include <iostream>
 
 using namespace std;
