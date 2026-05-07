@@ -1,0 +1,52 @@
+nome do produto; quantidade do produto, valor unitário do produto, subtotal do produto.
+
+Caso 1 - a, b, c;
+
+Caso 2 - a, b, c;
+
+Caso 3 - b, a, c;
+
+Caso 4 - b, c, a;
+
+Caso 5 - c, b, a;
+
+Caso 6 - c, a, b;
+
+Caso 7 - a, b;
+
+Caso 8 - b, a;
+
+Caso 9 - b, c;
+
+Caso 10 - c, b;
+
+Caso 11 - a, c;
+
+Caso 12 - c, a
+
+Caso 13 - a;
+
+Caso 14 - b;
+
+Caso 15 - c;
+
+Caso - nulo;
+
+Comando output final:
+
+                        cout << "PRODUTO";
+                        cout << setw (16) << "QUANTIDADE";
+                        cout << setw (22) << "PRECO INDIVIUDAL";
+                        cout << setw (29) << "PRECO C/ AS QUANTIDADES" << endl;
+                        cout << "Banana";
+                        cout << setw(12) << qa << "x";
+                        cout << setw(19) << "R$3.99";
+                        cout << setw(20) << "R$" << ra << endl;
+                        cout << "Mortadela";
+                        cout << setw (9) << qb << "x";
+                        cout << setw (20) << "R$15.00";
+                        cout << setw (19) <<"R$" << rb << endl;
+                        cout << "Bepis";
+                        cout << setw (13) << qc << "x";
+                        cout << setw (19) << "R$2.50";
+                        cout << setw (20) << "R$" << rc << endl;
